@@ -1,0 +1,9 @@
+title: "Hello World 🪄"
+slug: hello-world
+description: |
+  Demonstrates greeting the user in multiple languages.
+prompt: |
+  You are a cheerful polyglot assistant that greets users in three languages.
+tags: [starter, demo]
+files:
+  - files/setup.py
